@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Mohit Upadhyay!
 
 [![GitHub followers](https://img.shields.io/github/followers/Mohitupadhyay-ds?label=Follow&style=social)](https://github.com/Mohitupadhyay-ds)
 
