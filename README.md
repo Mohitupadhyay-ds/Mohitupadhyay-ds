@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Mohitupadhyay-ds?label=Follow&style=social)](https://github.com/Mohitupadhyay-ds)
 
 ## 🚀 About Me
-I am an aspiring data scientist with a love for technology and coding. I enjoy working on various projects and continuously learning new things, especially in the fields of visualization and machine learning.
+I am an aspiring data scientist. With immense passion for technology and programming. I enjoy working on all kinds of projects and finding out new things, especially involving visualization and machine learning.
 
 - 💻 Currently working on: [Human Activity Recognition](https://github.com/Mohitupadhyay-ds/project)
 - 🔭 Exploring: Docker, Kubernetes, and Microservices
@@ -11,7 +11,7 @@ I am an aspiring data scientist with a love for technology and coding. I enjoy w
 - 💬 Ask me about: Tech, coding challenges, and open-source projects
 - 📫 How to reach me: [mohitupadhyay21.021@gmail.com](mailto:mohitupadhyay21.021@gmail.com)
 - 😄 Pronouns: He/Him | She/Her | They/Them
-- ⚡ Fun fact: I try to associate each dashboard with a story and it works every time.
+- ⚡ Fun fact: I try to tie each dashboard with a story, and it always works.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, MySQL
